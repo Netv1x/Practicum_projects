@@ -8,7 +8,7 @@
 2.  [**02_Startups**](./02_Startups) — Исследование динамики венчурного финансирования стартапов. `Python (pandas, seaborn)`, `EDA`.
 3.  [**03_Metrics_and_AB_Test**](./03_Metrics_and_AB_Test) — Расчет метрик (MAU, LTV, Retention) и анализ A/B-теста. `SQL`, `Python (scipy, statsmodels)`.
 4.  [**04_Yandex_Afisha**](./04_Yandex_Afisha) — Дипломный проект: анализ продаж билетов и создание дашборда. `SQL`, `DataLens`, `Python`.
-5.  [**05_HH_Vacancies**](./05_HH_Vacancies) — Анализ рынка вакансий аналитиков данных на hh.ru. `SQL (PostgreSQL)`.
+5.  [**05_HH_Vacancies**](./05_HH_Vacancies) — Анализ рынка вакансий аналитиков данных на hh.ru. `SQL`.
 
 ## Мой стек:
 *   **Языки и библиотеки:** SQL, Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels).
