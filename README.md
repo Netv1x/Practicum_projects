@@ -9,6 +9,6 @@
 3.  [**03_Metrics_and_AB_Test**](./03_Metrics_and_AB_Test) — Расчет метрик (MAU, LTV, Retention) и анализ A/B-теста. `SQL`, `Python (scipy, statsmodels)`.
 4.  [**04_Yandex_Afisha**](./04_Yandex_Afisha) — Дипломный проект: анализ продаж билетов и создание дашборда. `SQL`, `DataLens`, `Python`.
 
-## 🛠️ Мой стек:
+## Мой стек:
 *   **Языки и библиотеки:** SQL, Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels).
 *   **Инструменты:** DBeaver, Jupyter Notebook, Yandex DataLens, Git.
