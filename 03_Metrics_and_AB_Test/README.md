@@ -36,7 +36,6 @@ ORDER BY day_since_install;
 
 **2. Расчет LTV по городам::**
 ```sql
-sql
 SELECT 
     g.usage_geo_id_name AS city,
     COUNT(DISTINCT a.puid) AS total_users,
