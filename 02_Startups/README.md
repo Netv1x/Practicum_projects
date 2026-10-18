@@ -14,4 +14,4 @@
 *   Дал рекомендацию инвестировать в сегменты Technology, Cloud Computing, Internet и Startups.
 
 ## Файлы в репозитории
-*   `startups_research.ipynb` — Jupyter Notebook с полным кодом, графиками и выводами.
+*   `startup_funding_analysis.ipynb` — Jupyter Notebook с полным кодом, графиками и выводами.
